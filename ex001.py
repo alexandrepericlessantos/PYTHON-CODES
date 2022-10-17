@@ -1,0 +1,6 @@
+print('')
+nome = input('Digite o seu nome:')
+idade = input('Digite a sua idade:')
+peso = input('Digite o seu peso:')
+print('')
+print('O seu nome é',nome+', a sua idade é',idade,'anos e seu peso é',peso+'kg.')
